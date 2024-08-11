@@ -120,7 +120,4 @@ A starter set of decks and flashcards is provided in a JSON file (`assets/flashc
 
 The application is available for download in APK format for Android devices at the following link: [Download APK](https://drive.google.com/drive/folders/1imrRORnlZpuvd29ZpnQpbvulj7tceJSu)
 
-## Contribution
-
-We welcome contributions! Please fork the repository and submit pull requests with clear descriptions of your changes.
 
